@@ -1,0 +1,30 @@
+
+@charset  'UTF-8';
+
+body{
+    background-image: url("/imagens/foto-backgroud-6.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+div#video3{
+    text-align: center;
+    margin: auto;
+}
+div#video4{
+    text-align: center;
+    margin: auto;
+}
+div#video5{
+    text-align: center;
+    margin: auto;
+}
+card.cardtext-bg-dark{
+    width: 600px;
+}
+p.initialism{
+    background-color: rgba(0, 0, 0, 0.237);
+    color: white;
+    text-rendering:optimizeLegibility;
+    font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+
+
+
+
+/*=----------------------------------------------------------------------*/
+
+body{
+   background-color: black;
+
+
+   
+}
+#menu{
+    color: white;
+}
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    margin: auto;
+    font-variant: small-caps;
+    font-weight: bold;
+    text-shadow: 4px 6px 5px rgba(0, 0, 0, 0.328);
+    padding: 30px;
+    background-image: linear-gradient(to left, rgba(249, 252, 255, 0.86) ,transparent);
+
+}
+.blockquote-footer{
+    padding-right: 10px;
+}
+.initialism{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+    text-indent: 5px;
+    text-rendering: auto;
+    text-indent: 10px;
+}
+.redes{
+    text-decoration: none;
+  color: black;
+  padding-left: 14px;
+}
+.redes:hover{
+    color: red;
+    font-size: x-large;
+    text-shadow: 4px 4px 5px black;
+}
+.dropdown-item:hover{
+    color: red;
+    font-size: x-large;
+    text-shadow: 4px 4px 5px black;
+}
+.loremh2{
+    text-align: center;
+    text-align: justify;
+    text-indent: 10px;
+}
+#carouselExampleControlsNoTouching{
+    width: 50%;
+  
+}
+#carouselExampleFade{
+   width: 50%;
+   margin-left: auto;
+}
+.page-link:hover{
+         
+    color: black;
+    background-color: rgba(65, 129, 197, 0.53);
+}

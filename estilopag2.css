@@ -1,0 +1,36 @@
+
+@charset  'UTF-8';
+
+
+body{
+ 
+
+    background-color: black;
+   
+}
+.animate__flip{
+margin-top: 100px;
+animation-delay: 1s;
+
+
+   
+}
+div.video1{
+
+ text-align: center;
+}
+div.video2{
+    text-align: center;
+}
+p.fw-bold{
+    color: rgb(107, 97, 43);
+}
+p.fw-light{
+    color: rgb(107, 97, 43);
+}
+p.fst-italic{
+    color: rgb(107, 97, 43);
+}
+.fst-italic,animate__lightSpeedInRight{
+    animation-iteration-count: calc(3);
+}
